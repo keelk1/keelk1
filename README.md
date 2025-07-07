@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Edgar (keelk1) 👋</h1>
+<h1 align="center">Hi, I'm Edgar</h1>
 
 <p align="center">
   FinTech builder · Aspiring VC analyst · TypeScript & Next.js enthusiast
