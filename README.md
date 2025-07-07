@@ -38,5 +38,5 @@
 
 ### 📫 Contact
 - **e‑mail**: edgar.tissot@skema.edu  
-- **LinkedIn**: <www.linkedin.com/in/edgar-tissot>  
+- **LinkedIn**: www.linkedin.com/in/edgar-tissot  
 - **Prototype**: <https://prototype.gylt.space>
