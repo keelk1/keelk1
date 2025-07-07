@@ -27,16 +27,7 @@
 ### 🔥 Streak
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=keelk1
-       &background=0D1117
-       &currStreakNum=58A6FF
-       &sideNums=C9D1D9
-       &sideLabels=C9D1D9
-       &date=C9D1D9
-       &stroke=0D1117
-       &ring=58A6FF
-       &fire=FF6E30
-       &hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=keelk1&background=0D1117&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&date=C9D1D9&stroke=0D1117&ring=58A6FF&fire=FF6E30&hide_border=true"
   />
 </p>
 
