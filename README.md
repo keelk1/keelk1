@@ -20,13 +20,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keelk1&show_icons=true&hide_title=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&hide_border=true"" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keelk1&show_icons=true&hide_title=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelk1&layout=compact&hide_border=true&hide=html,css&count_private=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF" />
 </p>
 
 ### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keelk1&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keelk1&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" />
 </p>
 
 ### 🚀 Current Focus
