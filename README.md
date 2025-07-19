@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edgar</h1>
 
 <p align="center">
-  FinTech builder · Aspiring VC analyst · TypeScript & Next.js enthusiast
+  TypeScript & Next.js enthusiast
 </p>
 
 <p align="center">
