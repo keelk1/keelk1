@@ -1,14 +1,5 @@
 <h1 align="center">Hi, I'm Edgar</h1>
 
-<p align="center">
-  TypeScript & Next.js enthusiast
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keelk1&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/keelk1?label=Follow&style=social" alt="followers" />
-</p>
-
 ---
 
 ### 🔧 Tech Stack
