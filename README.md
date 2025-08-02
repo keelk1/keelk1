@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Edgar</h1>
 
----
 
 ### 🔧 Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
