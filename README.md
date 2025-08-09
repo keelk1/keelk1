@@ -24,7 +24,7 @@
 ### 🚀 Current Focus
 - ✨ Shipping **gYlt** v3 – a Switch & Save assistant for Gen Z.
 - 🤝 Seeking a technical co‑founder & early advisors.
-- 🎓 M1 Student @ SKEMA BS; January 2026 VC internship hunt.
+- 🎓 M1 Student @ SKEMA BS, January 2026 VC internship hunt.
 
 ### 📫 Contact
 - **e‑mail**: edgar.tissot@skema.edu  
